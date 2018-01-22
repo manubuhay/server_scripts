@@ -9,3 +9,5 @@ then
 fi
 sleep 5
 done
+
+#Note this script requires inotifywait to be installed in the system globally
